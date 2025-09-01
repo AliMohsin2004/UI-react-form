@@ -2,8 +2,8 @@ import React from "react";
 
 function Button() {
   return (
-    <div className="w-32 h-12 bg-[#22503F] flex justify-center items-center rounded-2xl mt-4 mx-24 hover:bg-[#548372] transition">
-      <button className="font-md text-white font-Roboto items-center">
+    <div className="w-80 h-10 mx-2 bg-[#22503F] shadow-lg flex justify-center items-center rounded-xl mt-6 hover:bg-[#548372] transition">
+      <button className="font-md text-white font-Roboto ">
         Create Account
       </button>
     </div>
